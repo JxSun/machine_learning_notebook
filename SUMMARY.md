@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Embedding Numerous Features](ch5/embedding_numerous_features.md)
+* [Ch5. Embedding Numerous Features](ch5/embedding_numerous_features.md)
 
